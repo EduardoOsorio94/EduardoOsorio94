@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm Jorge Eduardo Osorio 👋
 
-<!--
-**EduardoOsorio94/EduardoOsorio94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineering Student (9th Semester)
 
-Here are some ideas to get you started:
+🚀 Passionate about Automation, Python, APIs and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Lima, Peru
+
+🇺🇸 English: C1
+
+---
+
+## About Me
+
+I'm currently working as Technical Support for GoDaddy while pursuing my degree in Systems Engineering.
+
+I enjoy building automation solutions, integrating APIs, developing dashboards, and creating software that solves real-world business problems.
+
+---
+
+## Technologies
+
+🐍 Python
+
+⚙️ REST APIs
+
+📊 Looker Studio
+
+📈 Google Sheets
+
+📄 Google Apps Script
+
+🚀 GitHub Actions
+
+🌐 React
+
+🟢 Node.js
+
+🍃 MongoDB
+
+🐳 Git
+
+---
+
+## Featured Projects
+
+🚗 Fleet Management Automation
+
+• Fleetio API Integration
+
+• ETL Pipelines
+
+• Automated Reports
+
+• Slack Integration
+
+• Google Sheets Automation
+
+📊 Fleet Dashboard
+
+• Executive KPIs
+
+• Inspection Analytics
+
+• Downtime Monitoring
+
+🌐 AgendaPro
+
+• MERN Stack
+
+• Appointment Management System
+
+🤖 Gesture Car
+
+• Arduino
+
+• Android Studio
+
+• MediaPipe
+
+---
+
+## Contact
+
+📧 jorgeeod94@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/jorgeosoriodurand/
